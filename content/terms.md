@@ -6,7 +6,7 @@ draft: false
 
 # Mastodon Ikebukuro Division プライバシーポリシー
 
-最終更新日：2019年2月6日
+最終更新日：2019年2月6日s
 
 ## どのような情報を収集しますか？
 
@@ -72,7 +72,7 @@ draft: false
 
 ## プライバシーポリシーの変更について
 
-+ この文章の原文は[GitHub](https://github.com/ikebuku-ro/documentation/blob/master/docs/privacy.md)にあります。
++ この文章の原文は[GitHub](https://github.com/ikebuku-ro/infomation/blob/master/content/terms.md)にあります。
 + この文章のライセンスはCC-BY-SAです。
 
 オリジナルの出典: [Discourse privacy policy](https://github.com/discourse/discourse)
