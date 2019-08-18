@@ -2,6 +2,7 @@ baseURL = "http://info.ikebuku.ro/"
 languageCode = "ja-JP"
 title = "Mastodon Ikebukuro Division Information"
 theme = "ananke"
+enableGitInfo = true
 
 [params]
   AuthorName = "cybergene"
