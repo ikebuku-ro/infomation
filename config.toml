@@ -10,3 +10,9 @@ enableGitInfo = true
 
 [permalinks]
   posts = "/:year/:month/:title/"
+
+[frontmatter]
+  date = ["date", "publishDate", "lastmod"]
+  lastmod = [":git", "lastmod", "date", "publishDate"]
+  publishDate = ["publishDate", "date"]
+  expiryDate = ["expiryDate"]
