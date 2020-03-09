@@ -8,7 +8,7 @@ draft: false
 
 Mastodon Ikebukuro Division 利用規約
 
-最終更新日：2019年2月27日
+最終更新日：2020年3月9日
 
 -----
 
