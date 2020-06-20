@@ -73,4 +73,4 @@ Mastodon Ikebukuro Division 利用規約
 ### 利用規約の変更について
 
 - この文章の原文は[GitHub](https://github.com/ikebuku-ro/documentation/blob/master/docs/terms.md)にあります。
-- この文章のライセンスは CC-BY-SA です。
+- この文章のライセンスは [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.ja) です。
