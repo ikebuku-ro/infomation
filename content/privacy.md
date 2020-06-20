@@ -75,6 +75,6 @@ draft: false
 ### プライバシーポリシーの変更について
 
 - この文章の原文は[GitHub](https://github.com/ikebuku-ro/infomation/blob/master/content/privacy.md)にあります。
-- この文章のライセンスは CC-BY-SA です。
+- この文章のライセンスは [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.ja) です。
 
 オリジナルの出典: [Discourse privacy policy](https://github.com/discourse/discourse)
