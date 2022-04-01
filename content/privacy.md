@@ -6,7 +6,7 @@ draft: false
 
 ## Mastodon Ikebukuro Division プライバシーポリシー
 
-最終更新日：2020 年 3 月 10 日
+最終更新日：2022 年 4 月 1 日
 
 ### どのような情報を収集しますか？
 
@@ -70,7 +70,7 @@ draft: false
 
 ### 児童によるサイト利用について
 
-- このサーバーは米国に存在しており、13 歳未満の場合、COPPA ([Children's Online Privacy Protection Act](https://en.wikipedia.org/wiki/Children%27s_Online_Privacy_Protection_Act) - 児童オンラインプライバシー保護法) により当サイトを使用できません。
+- 13 歳未満の場合、COPPA ([Children's Online Privacy Protection Act](https://en.wikipedia.org/wiki/Children%27s_Online_Privacy_Protection_Act) - 児童オンラインプライバシー保護法) により当サイトを使用できません。
 
 ### プライバシーポリシーの変更について
 
