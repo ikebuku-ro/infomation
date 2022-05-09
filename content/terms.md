@@ -8,7 +8,7 @@ draft: false
 
 Mastodon Ikebukuro Division 利用規約
 
-最終更新日：2020 年 9 月 6 日
+最終更新日：2022 年 5 月 9 日
 
 ---
 
@@ -73,5 +73,5 @@ Mastodon Ikebukuro Division 利用規約
 
 ### 利用規約の変更について
 
-- この文章の原文は[GitHub](https://github.com/ikebuku-ro/documentation/blob/master/docs/terms.md)にあります。
+- この文章の原文は[GitHub](https://github.com/ikebuku-ro/infomation/blob/main/content/terms.md)にあります。
 - この文章のライセンスは [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.ja) です。
